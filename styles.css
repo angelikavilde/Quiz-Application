@@ -1,0 +1,36 @@
+.title {
+  color: #e7b10a;
+}
+
+body {
+  text-align: center;
+  background-image: url(https://github.com/angelikavilde/Quiz-Application/blob/main/pexels-photo-1026230.jpeg?raw=true);
+  background-size: cover;
+  margin: 80px auto;
+  width: 50%;
+}
+h2 {
+  position: relative;
+}
+img {
+  height: 230px;
+  width: 300px;
+}
+.game {
+  background-color: #898121;
+  padding: 50px;
+  border: 5px solid #4c4b16;
+  border-radius: 20px;
+}
+
+button {
+  color: rgb(105, 84, 22);
+  background-color: #e7b10a;
+  border-radius: 8px;
+  border: solid rgb(183, 140, 8);
+}
+
+.signature {
+  color: #b99b6b;
+  font-size: 12px;
+}
