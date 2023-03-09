@@ -1,7 +1,7 @@
-# Quiz Application
+# Quiz Application 
 ## FDM She Lives Tech bootcamp
 
-This was my first experience using any of the listed below languages. The bootcamp was a single day event provided by FDM Group that included fast track classes on the languages used and one extra session for tech support with the application.
+This was my first experience using any of the listed below languages. The bootcamp was a single day event provided by FDM Group that included fast track classes on the languages used and one extra session for tech support with the application. The project was finished on the 08/03/23.
 
 Languages used:
   * HTML
